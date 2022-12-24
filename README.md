@@ -4,7 +4,7 @@ Geth + Fyne = GeNe
 
 ## Introduction 
 
-I wanted to learn/play with (Fyne)[https://developer.fyne.io/] so I decided to make a simple interface for interaction with Geth clients... I wrote this front to back in about 6 hours. So this is super simple code & functionality (I.E. dont expect anything crazy just yet. )
+I wanted to learn/play with [Fyne](https://developer.fyne.io/) so I decided to make a simple interface for interaction with Geth clients... I wrote this front to back in about 6 hours. So this is super simple code & functionality (I.E. dont expect anything crazy just yet. )
 
 
 ## Usage
@@ -39,3 +39,12 @@ go run cmd/main.go
 ### Feedback / Contribution 
 
 Please do :) 
+
+### UI Screenshots
+
+
+![Basic](./docs/assets/basic.png)
+![advanced](./docs/assets/advanced.png)
+![advancedapi](./docs/assets/advancedAPI.png)
+![miner](./docs/assets/miner.png)
+![dev](./docs/assets/dev.png)
